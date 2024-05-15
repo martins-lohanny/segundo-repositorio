@@ -3,10 +3,10 @@
     padding: 0;
 }
 
- body {
+body {
     font-family: 'Roboto', sans-serif;
- }
- 
+}
+
 header {
     background-color: #424E61;
     color: white;
@@ -29,10 +29,10 @@ header {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
 
- .escola-imagem{
-    width:25%; ;
-
+.escola-imagem {
+    width: 25%;
 }
 
 .escola {
@@ -66,15 +66,17 @@ header {
     padding: 16px 0;
 }
 
-.estudante-titulo{
-    text-align: center ;
+.estudante-titulo {
+    text-align: center;
     padding: 50px 0;
-    .rodape{
-        background-color: black;
-        text-align: center;
-    }
-    .roape-imagem{
-        height: 60px;
-        padding: 12px 0;
-    }
+}
+
+.rodape {
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem {
+    height: 60px;
+    padding: 12px 0;
 }
