@@ -6,10 +6,12 @@
         <title>Página principal</title>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link
-            href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
-            rel="stylesheet">
-    
+        <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"  rel="stylesheet">
+         
+        <link  rel="stylesheet"  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
         <link rel="stylesheet" href="style.css">
         <link rel="stylesheet" href="styles/apresentacao.css">
     </head>
@@ -78,6 +80,33 @@
         <img src="img/High School-amico.png" alt="" class="escola-imagem">
         
         </section>
+
+        <section class="carrosel">
+            
+            <h2 class="carrossel_titulo">Nossos Produtos</h2>
+
+            <!-- Slider main container -->
+            <div class="swiper">
+                <!-- Additional required wrapper -->
+                <div class="swiper-wrapper">
+                    <!-- Slides -->
+                     <div class="swiper-slide">Slide 1</div>
+                     <div class="swiper-slide">Slide 2</div>
+                    <div class="swiper-slide">Slide 3</div>
+                      ...
+                </div>
+                 <!-- If we need pagination -->
+                <div class="swiper-pagination"></div>
+  
+                <!-- If we need navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+  
+                <!-- If we need scrollbar -->
+                <div class="swiper-scrollbar"></div>
+            </div>
+  
+        </section>
         
         <section class="estudante">
             <h2 class="estudante-titulo">quem sou</h2>
@@ -97,6 +126,8 @@
         <footer class="rodape">
             <img src="img/alurastart_logo.png" alt="logo da alura" class="rodape-imagem">
         </footer>
+        
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
        
     </body>
 
