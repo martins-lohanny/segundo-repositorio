@@ -1,0 +1,22 @@
+.flashcard{
+    background-color: var(#D09EFF);
+}
+
+#flashcard{
+    display: flex
+}
+
+.cartao{
+    margin: 1rem 1rem;
+    background-color: var (--cor-2);
+    height: 20rem;
+    flex-grow: 1;
+    flex-basis: calc(33% -6rem);
+}
+
+.cartao_conteudo{
+    text-align:center;
+    height: 100%;
+}
+
+.cartao_conteudo
