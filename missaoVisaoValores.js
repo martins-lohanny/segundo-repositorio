@@ -1,17 +1,19 @@
 criaCartao (
     'Missão',
     'Saiba qual é a missão de nossa empresa!',
-    'Nossa missão é ...'
-)
+    'Encantar nossos clientes com doces artesanais
+    de alta qualidade, criados com paixão e ingredientes selecionados, proporcionando momentos únicos de alegria e sabor.'
 
 criaCartao (
     'Visão',
     'Saiba qual é a visão de nossa empresa!',
-    'Nossa visão é ...'
+    'Ser referencia nas docerias, ser reconhecida por inovaçoes, ter compromisso com a qualidade e sustentabilidade. Mantendo sempre o amor pelo o que fazemos.'
 )
 
 criaCartao (
     'Valores',
     'Saiba quais são os valores de nossa empresa!',
-    'Nossos valores são...'
+    'Qualidade e inovação
+Sustentabilidade
+Companherismo e Alegria.'
 )
