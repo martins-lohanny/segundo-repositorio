@@ -27,7 +27,7 @@
 }
 
 .cartao__conteudo h3 {
-    background-color: var(--cor-preto);
+    background-color: var(--cor-branco);
     color: var(--cor-branco);
     border: 1px solid var(--cor-branco);
     text-align: center;
@@ -57,6 +57,7 @@
     color: var(--cor-branco);
     font-weight: 700;
 }
+
 
 .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
