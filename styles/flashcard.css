@@ -26,8 +26,8 @@
     align-items: flex-start;
 }
 
-.cartao__conteudo h3 { #e073b7
-    background-color: var(--cor-principal);
+.cartao__conteudo h3 {
+    background-color: var(--cor-preto);
     color: var(--cor-branco);
     border: 1px solid var(--cor-branco);
     text-align: center;
