@@ -20,7 +20,7 @@
 .swiper-slide{
     text-align: center;
     font-size: 18px;
-    background: #fff; 
+    background:#32F4FF; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,7 +39,7 @@
 }
 
 .card {
-    background: var(--cor-azul);
+    background: var(--cor-branco);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     margin: 1em;
