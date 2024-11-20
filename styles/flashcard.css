@@ -26,7 +26,7 @@
     align-items: flex-start;
 }
 
-.cartao__conteudo h3 {
+.cartao__conteudo h3 { #e073b7
     background-color: var(--cor-principal);
     color: var(--cor-branco);
     border: 1px solid var(--cor-branco);
@@ -46,7 +46,7 @@
     padding: 2rem;
     margin-top: 3rem;
     font-size: 1.4vw;
-}
+}#db81c8;
 
 .cartao__conteudo__pergunta p {
     color: var(--cor-principal);
